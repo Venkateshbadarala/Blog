@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "content": "React Hooks allow you to use state and other React features without writing a class. In this blog post, we'll explore the basics of useState, useEffect, and other commonly used hooks.",
+      "author": "Jane Doe",
+      "date": "2024-09-01"
+  },
+  {
+      "id": 2,
+      "title": "Getting Started with Tailwind CSS",
+      "content": "Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs. This post will guide you through setting up Tailwind CSS in your project and using its classes to style your components.",
+      "author": "John Smith",
+      "date": "2024-09-05"
+  },
+  {
+      "id": 3,
+      "title": "Next.js: Server-Side Rendering vs Static Generation",
+      "content": "Next.js offers two main methods for rendering pages: server-side rendering (SSR) and static generation (SG). In this post, we will compare these two approaches and help you choose the best one for your application.",
+      "author": "Alice Johnson",
+      "date": "2024-09-10"
+  },
+  {
+      "id": 4,
+      "title": "A Guide to Modern JavaScript Features",
+      "content": "Modern JavaScript introduces new features and syntax improvements that enhance development experience. This guide covers ES6+ features like arrow functions, destructuring, and async/await.",
+      "author": "Bob Brown",
+      "date": "2024-09-15"
+  }
+]
